@@ -1,6 +1,12 @@
-# Everyday One Motion - logo "Everyday One Motion"
+# Everyday One Motion - logo  
 
-![](http://motions.work/img/FMS_Cat_5683d70496106.gif)
+"Everyday One Motion"  
+
+![](logo.gif)  
+
+JavaScript, WebGL, Raymarcher, Processing, ImageMagick  
+
+[Everyday One Motion](http://motions.work/motion/31)  
 
 ## js
 
